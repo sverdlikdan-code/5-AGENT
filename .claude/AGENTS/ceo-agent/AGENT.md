@@ -27,7 +27,7 @@ role: orchestrator
 
 | סוכן | מתי לקרוא | AGENT.md |
 |------|-----------|----------|
-| Content Agent | כתיבה, יצירת תוכן, עריכה, פוסטים, תיאורים | `.claude/AGENTS/content-agent/AGENT.md` |
+| יעל (Yael) | כתיבה, שכתוב, עריכת מאמרים, בלוג, תוכן שיווקי | `.claude/AGENTS/yael/AGENT.md` |
 | Research Agent | מחקר, חיפוש, ניתוח, סיכום מידע | `.claude/AGENTS/research-agent/AGENT.md` |
 | יובל (Yuval) | יצירת תמונה, עיצוב ויזואלי, image generation | `.claude/AGENTS/yuval/AGENT.md` |
 | Agent 5 | TBD | TBD |
@@ -44,8 +44,8 @@ role: orchestrator
       ▼
 זהה keywords
       │
-      ├── כתיבה / יצירה / עריכה / פוסט / מאמר / תוכן
-      │         └──→ Content Agent
+      ├── כתיבה / שכתוב / מאמר / בלוג / תוכן / עריכה
+      │         └──→ יעל
       │
       ├── מחקר / חיפוש / ניתוח / סיכום / מה ידוע
       │         └──→ Research Agent
