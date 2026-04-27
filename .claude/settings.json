@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell($env:PATH += \";C:\\\\Program Files\\\\Git\\\\cmd\"; cd \"c:\\\\Users\\\\d.sverdlik\\\\Desktop\\\\WORKSPACE\\\\THE 5 AGENTS\"; git add CLAUDE.md; git commit -m \"Wire CEO agent into CLAUDE.md — load on every session\"; git push)"
+    ]
+  }
+}
