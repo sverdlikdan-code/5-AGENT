@@ -16,5 +16,6 @@
 - [[skill-nano-banana-2]] — Skill ליצירת תמונות עם Google Nano Banana 2 דרך MCP
 - [[agent-yuval]] — סוכן קריאייטיב יובל — יצירת תמונות עקביות עם reference
 - [[agent-yael]] — סוכנת כתיבת תוכן יעל — שכתוב מאמרים + שילוב תמונות מיובל
-- [[agent-reuven]] — סוכן תיאום ראובן — מנהל pipeline שלם: חן → יעל → יובל → Output
+- [[agent-reuven]] — סוכן תיאום ראובן — מנהל pipeline שלם: חן → יעל → יובל → גיא → Output
+- [[agent-guy]] — סוכן QA גיא — בודק תוצרים, סוגר הלולאה, הסוכן ה-5 והאחרון
 - [[agent-chen]] — סוכנת חיפוש רשת חן — מוצאת מאמרים, שומרת ב-Content/, מתעדת ב-Memory/

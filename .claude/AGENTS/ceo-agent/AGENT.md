@@ -31,7 +31,7 @@ role: orchestrator
 | יעל (Yael) | שכתוב / עריכה של קובץ קיים ב-Content/ (ללא מחקר) | `.claude/AGENTS/yael/AGENT.md` |
 | חן (Chen) | חיפוש ברשת בלבד, מקורות עדכניים, ללא שכתוב | `.claude/AGENTS/chen/AGENT.md` |
 | יובל (Yuval) | יצירת תמונה בלבד, עיצוב ויזואלי, image generation | `.claude/AGENTS/yuval/AGENT.md` |
-| Agent 5 | TBD | TBD |
+| גיא (Guy) | QA — בדיקת תוצר לפני יציאה. מופעל מראובן, לא ישירות מהמנכ"ל | `.claude/AGENTS/guy/AGENT.md` |
 
 > כשמוסיפים סוכן חדש: צור `AGENT.md` בתיקייה שלו ועדכן את הטבלה הזו.
 
@@ -102,9 +102,6 @@ role: orchestrator
 
 ---
 
-## Future Agents
+## הערה
 
-סוכן אחד נוסף יתווסף בהמשך (Agent 5). כשיוגדר:
-1. צור `.claude/AGENTS/<name>/AGENT.md`
-2. עדכן את Sub-Agent Registry בקובץ זה
-3. הוסף rule ל-Routing Logic
+כל 5 הסוכנים הוגדרו. גיא מופעל פנימית מראובן — לא מנותב ישירות מהמנכ"ל.
