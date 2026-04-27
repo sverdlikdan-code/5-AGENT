@@ -12,3 +12,4 @@
 - [[claude-settings]] — קובץ .claude/settings.local.json — permissions מקומיות
 - [[agents-folder]] — תיקיית AGENTS/ — עתידית לאגנטים עצמאיים
 - [[vault-structure]] — מבנה תיקיית VAULT/ עצמה
+- [[ceo-agent-prd]] — PRD לסוכן המנכ"ל — הסוכן הראשי שמנתב לכל הסוכנים
