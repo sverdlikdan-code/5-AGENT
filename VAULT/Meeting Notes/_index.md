@@ -13,3 +13,5 @@
 - [[agents-folder]] — תיקיית AGENTS/ — עתידית לאגנטים עצמאיים
 - [[vault-structure]] — מבנה תיקיית VAULT/ עצמה
 - [[ceo-agent-prd]] — PRD לסוכן המנכ"ל — הסוכן הראשי שמנתב לכל הסוכנים
+- [[skill-nano-banana-2]] — Skill ליצירת תמונות עם Google Nano Banana 2 דרך MCP
+- [[agent-yuval]] — סוכן קריאייטיב יובל — יצירת תמונות עקביות עם reference

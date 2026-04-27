@@ -29,7 +29,7 @@ role: orchestrator
 |------|-----------|----------|
 | Content Agent | כתיבה, יצירת תוכן, עריכה, פוסטים, תיאורים | `.claude/AGENTS/content-agent/AGENT.md` |
 | Research Agent | מחקר, חיפוש, ניתוח, סיכום מידע | `.claude/AGENTS/research-agent/AGENT.md` |
-| Agent 4 | TBD | TBD |
+| יובל (Yuval) | יצירת תמונה, עיצוב ויזואלי, image generation | `.claude/AGENTS/yuval/AGENT.md` |
 | Agent 5 | TBD | TBD |
 
 > כשמוסיפים סוכן חדש: צור `AGENT.md` בתיקייה שלו ועדכן את הטבלה הזו.
@@ -53,7 +53,10 @@ role: orchestrator
       ├── גם וגם (חוצה תחומים)
       │         └──→ פצל → בצע ברצף → תאם תוצאות
       │
-      ├── Agent 4 / Agent 5 — עדיין TBD
+      ├── תמונה / עיצוב / image / visual / צור תמונה
+      │         └──→ יובל
+      │
+      ├── Agent 5 — עדיין TBD
       │         └──→ הודע למשתמש: "סוכן זה עדיין לא הוגדר"
       │
       └── לא ברור
