@@ -11,10 +11,10 @@
             "id": "7c4a7598c94303c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -176,8 +176,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "13d79a8f38c4d4b4",
+  "active": "7c4a7598c94303c7",
   "lastOpenFiles": [
+    "CLAUDE.md.tmp.15076.1777294180902",
     "VAULT/Brand Guidelines/_index.md",
     "VAULT/Publishing Log/_index.md",
     "VAULT/Content Briefs/_index.md",
